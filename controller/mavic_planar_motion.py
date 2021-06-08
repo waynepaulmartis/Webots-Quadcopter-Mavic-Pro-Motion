@@ -17,13 +17,13 @@ TIME_STEP = int(params["QUADCOPTER_TIME_STEP"])
 TAKEOFF_THRESHOLD_VELOCITY = int(params["TAKEOFF_THRESHOLD_VELOCITY"])
 M_PI = numpy.pi;
 
-X_init = 0.0
-Z_init = 0.0
+X_init = -2.0
+Z_init = -3.0
 Y_init = 0.0
 
 X_fin = 1.0
-Z_fin = 0.0
-Y_fin = 1.0
+Z_fin = 2.0
+Y_fin = 0.0
 
 h = (X_init + X_fin)/2.0
 k = (Z_init + Z_fin)/2.0
