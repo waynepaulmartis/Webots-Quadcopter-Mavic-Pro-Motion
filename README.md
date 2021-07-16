@@ -1,4 +1,4 @@
-# Webots-Quadcopter-Mavic-Pro-Motion
+# Webots-Quadcopter-Mavic-Pro-Planar-Motion
 
 This repository uses Webots to simulate the DJI-Mavic Pro Quadcopter. 
 
